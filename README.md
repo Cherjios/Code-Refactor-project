@@ -1,5 +1,8 @@
 # Code-Refactor-project
 Refactor an existing webpage to make it accessible improving codebase for long term sustainability.
+
+## Objective
+Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
  
 ## Getting Started
 
@@ -8,8 +11,15 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 $ git clone git@github.com:Cherjios/Code-Refactor-project.git
 $ cd Code-Refactor-project
-$ code . 
 ```
+Then open in your preferred text editor:
+- [vim](https://www.vim.org/) 
+- [emmacs](https://www.gnu.org/software/emacs/)
+- [visual studio code](https://code.visualstudio.com/) 
+
+![Web screenshot](assets/images/webscreenshot.png)
+
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
