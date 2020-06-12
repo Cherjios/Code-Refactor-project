@@ -17,7 +17,7 @@ Then open in your preferred text editor:
 - [emmacs](https://www.gnu.org/software/emacs/)
 - [visual studio code](https://code.visualstudio.com/) 
 
-![Web screenshot](assets/images/web-screenshot.png)
+![Web screenshot](assets/images/website-screenshot.png)
 
 
 ## Built With
