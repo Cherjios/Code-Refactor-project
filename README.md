@@ -17,6 +17,7 @@ Then open in your preferred text editor:
 - [emmacs](https://www.gnu.org/software/emacs/)
 - [visual studio code](https://code.visualstudio.com/) 
 
+## Website view
 ![Web screenshot](assets/images/website-screenshot.png)
 
 
@@ -37,17 +38,3 @@ Then open in your preferred text editor:
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/cherjios)
 - [Link to LinkedIn](https://www.linkedin.com/in/sergio-lopez-81790579)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License 
-
-## Acknowledgments
-
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
-
-
